@@ -124,7 +124,4 @@ Análise de um conjunto de dados utilizando a biblioteca Pandas para limpeza e v
 ### Projeto 3: Aplicação Web com Flask
 Desenvolvimento de uma aplicação web simples utilizando o framework Flask.
 
-## Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+
