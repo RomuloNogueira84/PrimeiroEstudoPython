@@ -52,3 +52,11 @@ baloes_sobrando = total_baloes % numero_criancas
 print(f"Cada criança receberá {baloes_por_crianca} balões.")
 print(f"Sobrarão {baloes_sobrando} balões.")
 print('🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈')
+
+#Exponenciação
+print('🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️')
+print('Eu queria calcular a área de uma sala que é um quadrado. A fórmula para a área de um quadrado é lado elevado ao quadrado. Vamos usar a exponenciação para calcular isso.')
+lado = 4
+area = lado ** 2
+print(f"A área da sala com lado {lado} metros é {area} metros quadrados.")
+print('🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️')
