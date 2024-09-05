@@ -16,20 +16,23 @@ print('Eu tinha 5 maçãs e Keity comeu 2 maçãs com quantas ficamos? ','Assim 
 print('🍎🍎🍎🍎🍎🍎🍏🍏🍏🍏🍏🍏👦🏻💗👧🏻🍏🍏🍏🍏🍏🍏🍎🍎🍎🍎🍎🍎')
 
 print('🎲🎲🎲🎲🪓🎲🎲🎲🎲⚔️🎲🎲🎲🧙🏻‍♂️🎲🎲🎲🪄🎲🎲🎲🎲🗡️🎲🎲🎲🎲')
-print('Eu,Vitor,Ramon e Leir resolvemos jogar RPG e nosso grupo encontrou um Ogro com 150 pontos de vida nosso grupo tomou a iniciativa e atacou causando Romulo 12 de dano,Vitor 13, Ramon 14 e Leir 15 então quanto foi o dano total?' , 'O ogro levou ',150-12-13-14-15,'pontos de dano')
+print('Eu,Vitor,Ramon e Leir resolvemos jogar RPG e nosso grupo encontrou um Ogro com 150 pontos de vida
+nosso grupo tomou a iniciativa e atacou causando Romulo 12 de dano,Vitor 13, Ramon 14 e Leir 15 então quanto foi o dano total?' , 'O ogro levou ',150-12-13-14-15,'pontos de dano')
 print('🎲🎲🎲🎲🪓🎲🎲🎲🎲⚔️🎲🎲🧙🏻‍♂️🎲🎲🪄🎲🎲🎲🎲🗡️🎲🎲🎲🎲')
 # Multiplicação
 
 print(10*8)
 print(12*3*5)
 print('🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓')
-print('Eu Romulo continuei meu ataque contra o ogro e tirei um 20 em minha rolagem acerto critico que é x3 com machado grande e ao rolar o d12 tirei 8 , Eu tenho bonus de força +5 e ao que no total meu ataque foi de : ' , 8*3+5,' de dano no ogro')
+print('Eu Romulo continuei meu ataque contra o ogro e tirei um 20 em minha rolagem acerto critico que é x3 com machado grande e ao rolar o d12 tirei 8 ,
+Eu tenho bonus de força +5 e ao que no total meu ataque foi de : ' , 8*3+5,' de dano no ogro')
 print('🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓🪓')
 # Divisão
 
 print(10/2)
 print('🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁')
-print('Eu e Keity estavamos vendendo brigadeiros juntos cada um custava 2 reais e vendemos 47 brigadeiros então quanto foi o valor total de brigadeiros vendidos?', 'Foram vendidos ao total ', 2*47,'reais em brigadeiros')
+print('Eu e Keity estavamos vendendo brigadeiros juntos cada um custava 2 reais e vendemos 47 brigadeiros então quanto foi o valor total de brigadeiros vendidos?', 
+'Foram vendidos ao total ', 2*47,'reais em brigadeiros')
 print('🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁🧁')
 
 # Divisão com resultado inteiro
@@ -44,7 +47,8 @@ print('🥢🍱🍣🍣🍱🥢🥢🍱🍣🍣🍱🥢🥢🍱🍣🍣🍱🥢�
 
 #Modulo
 print('🎈🎈🎈🎈👦🏻🎈🎈🎈🎈👦🏻🎈🎈🎈🎈👧🏻🎈🎈🎈🎈👧🏻🎈🎈🎈🎈👧🏻🎈🎈🎈')
-print('Resolvemos ir ao circo e Keity ganhou 23 balões para distribuir com nossas 5 crianças -Alicia,Celine,Daphine,Alzernando e Fernemir. Você quer saber quantos balões cada criança receberá e quantos balões sobrarão.')
+print('Resolvemos ir ao circo e Keity ganhou 23 balões para distribuir com nossas 5 crianças -Alicia,Celine,Daphine,Alzernando e Fernemir. 
+Você quer saber quantos balões cada criança receberá e quantos balões sobrarão.')
 total_baloes = 23
 numero_criancas = 5
 baloes_por_crianca = total_baloes // numero_criancas
