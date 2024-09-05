@@ -2,7 +2,7 @@
 # Estudo de Python: Do Básico ao Expert
 
 ## Introdução
-Este repositório documenta minha jornada de aprendizado em Python, desde os conceitos básicos até o nível avançado, através do curso oferecido pela Empowerdata. O objetivo é consolidar o conhecimento adquirido e compartilhar projetos e exercícios realizados ao longo do curso.
+Este repositório documenta minha jornada de aprendizado em Python, desde os conceitos básicos até o nível avançado, através de cursos . O objetivo é consolidar o conhecimento adquirido e compartilhar projetos e exercícios realizados ao longo do curso.
 
 ## Índice
 1. Introdução
@@ -16,8 +16,6 @@ Este repositório documenta minha jornada de aprendizado em Python, desde os con
 ### Degrau 1: Formação Expert Python - Primeiros Passos com a Linguagem Python
 #### Módulo 1: Introdução
 - Introdução
-- Ficha de Cadastro (⚠️ Importante)
-- Apresentação da Plataforma & Comunidade no Discord
 - Por que Python?
 - Introdução ao Google Colab
 - Acessando o Google Colab
