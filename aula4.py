@@ -43,7 +43,7 @@ print('E a porção que a Keity vai comer é', keity_hots, 'hots inteiros.')
 print('🥢🍱🍣🍣🍱🥢🥢🍱🍣🍣🍱🥢🥢🍱🍣🍣🍱🥢🥢🍱🍣🍣🍱🥢🥢🍱🍣')
 
 #Modulo
-print('🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈')
+print('🎈🎈🎈🎈👦🏻🎈🎈🎈🎈👦🏻🎈🎈🎈🎈👧🏻🎈🎈🎈🎈👧🏻🎈🎈🎈🎈👧🏻🎈🎈🎈')
 print('Resolvemos ir ao circo e Keity ganhou 23 balões para distribuir com nossas 5 crianças -Alicia,Celine,Daphine,Alzernando e Fernemir. Você quer saber quantos balões cada criança receberá e quantos balões sobrarão.')
 total_baloes = 23
 numero_criancas = 5
@@ -51,7 +51,7 @@ baloes_por_crianca = total_baloes // numero_criancas
 baloes_sobrando = total_baloes % numero_criancas
 print(f"Cada criança receberá {baloes_por_crianca} balões.")
 print(f"Sobrarão {baloes_sobrando} balões.")
-print('🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈')
+print('🎈🎈🎈🎈👦🏻🎈🎈🎈🎈👦🏻🎈🎈🎈🎈👧🏻🎈🎈🎈🎈👧🏻🎈🎈🎈🎈👧🏻🎈🎈🎈')
 
 #Exponenciação
 print('🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️')
