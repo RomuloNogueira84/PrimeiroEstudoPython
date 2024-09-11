@@ -46,3 +46,36 @@ type(frase)
 basico_string = "Uma string é simplesmente uma sequência de caracteres. Você pode criar uma string em Python usando aspas simples  ou duplas "
 
 type(basico_string)
+
+#Booleanos
+verdadeiro = True
+falso = False
+type(verdadeiro)
+type(falso)
+
+status = True
+type(status)
+
+# Exercícios
+ano_atual = 2024
+nascimento_romulo = 1984
+nascimento_keity = 1995
+idade_romulo = ano_atual - nascimento_romulo
+idade_keity = ano_atual - nascimento_keity
+print(idade_romulo)
+print(idade_keity)
+
+diferenca_idade = idade_keity - idade_romulo
+print(diferenca_idade)
+
+romulo_torce_para = "Flamengo"
+ano_de_fundacao_flamengo = 1895
+print(f"O Flamengo foi fundado em {ano_de_fundacao_flamengo} e tem { ano_atual - ano_de_fundacao_flamengo } anos de fundação")
+
+romulo_horas_trabalhada_hora_mes = 220
+romulo_hora_dia = 8
+dias_em_um_mes = romulo_horas_trabalhada_hora_mes / 8
+print(f"Em um mês, o Romulo trabalha {romulo_horas_trabalhada_hora_mes} horas em {dias_em_um_mes} dias")
+
+# Variáveis são como os guarda-sóis na praia: você coloca um ali, guarda suas coisas e depois volta pra pegar quando precisar. Elas são um dos recursos mais básicos das linguagens de programação, permitindo que a gente armazene dados na memória do computador para usar mais tarde.
+
