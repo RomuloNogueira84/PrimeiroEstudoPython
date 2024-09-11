@@ -18,3 +18,6 @@ print(frase[0:11:2])
 # Invertendo uma string com slicing
 frase = "Estou buscando aprender Python"
 print(frase[::-1])
+
+nova_frase = "Eu sou Romulo e estou aprendendo Python"
+print(nova_frase[::-1])
